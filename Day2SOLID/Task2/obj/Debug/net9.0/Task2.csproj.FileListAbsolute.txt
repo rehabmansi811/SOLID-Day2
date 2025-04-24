@@ -1,0 +1,4 @@
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
