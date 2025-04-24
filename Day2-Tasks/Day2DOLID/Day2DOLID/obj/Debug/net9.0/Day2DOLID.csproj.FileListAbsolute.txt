@@ -1,0 +1,14 @@
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\bin\Debug\net9.0\Day2DOLID.exe
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\bin\Debug\net9.0\Day2DOLID.deps.json
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\bin\Debug\net9.0\Day2DOLID.runtimeconfig.json
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\bin\Debug\net9.0\Day2DOLID.dll
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\bin\Debug\net9.0\Day2DOLID.pdb
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.AssemblyInfoInputs.cache
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.AssemblyInfo.cs
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.csproj.CoreCompileInputs.cache
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.dll
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\refint\Day2DOLID.dll
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.pdb
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\Day2DOLID.genruntimeconfig.cache
+F:\ITI 9months\SOLD\D02\Day2-Tasks\Day2DOLID\Day2DOLID\obj\Debug\net9.0\ref\Day2DOLID.dll
